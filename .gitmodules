@@ -1,0 +1,3 @@
+[submodule "Applied Forecasting/fpp2-package"]
+	path = Applied Forecasting/fpp2-package
+	url = https://github.com/robjhyndman/fpp2-package.git
